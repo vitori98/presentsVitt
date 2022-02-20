@@ -1,0 +1,159 @@
+fileFormatVersion: 2
+guid: 799f0703392236342aa47e84e6d53739
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 7736480322614692945
+    second: vPine1|ArmatureAction
+  - first:
+      74: 1448535002260336849
+    second: vPine1|ArmatureAction.001
+  - first:
+      74: -1000279595532241995
+    second: vPine1|ArmatureAction.002
+  - first:
+      74: 8812740022692450165
+    second: vPine1|ArmatureAction.003
+  - first:
+      74: 4449881667674903612
+    second: vPine1|armT10Action
+  - first:
+      74: 7038394291380950856
+    second: vPine1|armT2Action
+  - first:
+      74: -7233661986986944747
+    second: vPine1|armT5Action.001
+  - first:
+      74: 8280879347406837984
+    second: vPine1|armT6Action.001
+  - first:
+      74: -7635124584177383918
+    second: vPine1|armT7Action.001
+  - first:
+      74: 4724099368065938249
+    second: vPine1|armT8Action.001
+  - first:
+      74: 4072048877978155780
+    second: vPine1|armT9Action.001
+  - first:
+      74: -1664783752955962587
+    second: vPine1|Cube.000Action
+  - first:
+      74: -6160924919222646783
+    second: vPine1|Cube.005Action
+  - first:
+      74: -7691817696263442295
+    second: vPine1|Icosphere.001Action
+  - first:
+      74: 1129124731840212729
+    second: vPine1|Icosphere.002Action
+  - first:
+      74: 8682983123140143492
+    second: vPine1|Icosphere.003Action
+  - first:
+      74: 8038832423865458469
+    second: vPine1|Icosphere.004Action
+  - first:
+      74: -4867618297450642473
+    second: vPine1|Icosphere.005Action
+  - first:
+      74: 4697644158672097029
+    second: vPine1|IcosphereAction
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
